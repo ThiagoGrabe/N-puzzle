@@ -1,0 +1,10 @@
+Path to goal: ['Right', 'Down', 'Down', 'Right', 'Up', 'Left', 'Up', 'Right', 'Down', 'Left', 'Down', 'Right', 'Up', 'Left', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Up', 'Right', 'Down', 'Down']
+
+What is the initial state?: [0,8,7,5,6,4,1,2,3]
+What is the final state?: [1, 2, 3, 4, 5, 6, 7, 8, 0]
+How much moves?: 30
+How much nodes were explored?: 497553
+How much nodes were visited?: 181264
+Answer's depth: 30
+Max depth reached: 31
+Time to run the instance: 32.608 seconds

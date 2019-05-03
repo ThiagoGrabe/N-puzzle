@@ -1,0 +1,10 @@
+Path to goal: ['Left', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Up', 'Right', 'Down', 'Left', 'Left', 'Down', 'Right', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Left', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Right', 'Down']
+
+What is the initial state?: [8,0,7,5,4,2,1,6,3]
+What is the final state?: [1, 2, 3, 4, 5, 6, 7, 8, 0]
+How much moves?: 135
+How much nodes were explored?: 38351
+How much nodes were visited?: 34212
+Answer's depth: 135
+Max depth reached: 343
+Time to run the instance: 1.660 seconds

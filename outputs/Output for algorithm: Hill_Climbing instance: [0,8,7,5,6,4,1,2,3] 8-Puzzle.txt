@@ -1,0 +1,10 @@
+Path to goal: ['Down', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Right', 'Down']
+
+What is the initial state?: [0,8,7,5,6,4,1,2,3]
+What is the final state?: [1, 2, 3, 4, 5, 6, 7, 8, 0]
+How much moves?: 60
+How much nodes were explored?: 53316
+How much nodes were visited?: 47197
+Answer's depth: 60
+Max depth reached: 379
+Time to run the instance: 2.421 seconds
